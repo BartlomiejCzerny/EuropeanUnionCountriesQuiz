@@ -1,0 +1,1214 @@
+.root {
+    -fx-background-color: radial-gradient(radius 100%, #3333ff, #000099);
+}
+
+
+
+#labelMotto {
+    -fx-font: 50px sans-serif;
+    -fx-text-fill: #FFD700;
+    -fx-translate-x: 170;
+}
+
+
+
+#buttonStartQuiz {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 315;
+    -fx-translate-y: 560;
+}
+#buttonStartQuiz:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonStartQuiz:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#labelTaskContent {
+    -fx-translate-y: 5;
+    -fx-font: 40px sans-serif;
+    -fx-text-fill: #FFD700;
+    -fx-translate-x: 200;
+}
+
+#labelPoints {
+    -fx-translate-y: 5;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #FFF;
+    -fx-background-color: #000;
+}
+
+#labelResult {
+    -fx-font: 40px sans-serif;
+    -fx-text-fill: #FFF;
+    -fx-background-color: #000;
+    -fx-translate-x: 60;
+    -fx-translate-y: 5;
+}
+
+#ivMedal {
+    -fx-translate-x: 250;
+    -fx-translate-y: 100;
+}
+
+#ivTraining {
+    -fx-translate-x: 250;
+    -fx-translate-y: 120;
+}
+
+#ivMalta {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask1Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask1Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask1Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask1Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask1Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask1Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask1Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask1Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask1Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask1Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask1Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask1Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+
+#ivHungary {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask2Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask2Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask2Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask2Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask2Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask2Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask2Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask2Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask2Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask2Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask2Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask2Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivPoland {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask3Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask3Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask3Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask3Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask3Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask3Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask3Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask3Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask3Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask3Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask3Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask3Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivFrance {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask4Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask4Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask4Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask4Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask4Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask4Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask4Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask4Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask4Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask4Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask4Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask4Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#ivCyprus {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask5Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask5Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask5Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask5Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask5Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask5Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask5Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask5Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask5Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask5Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask5Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask5Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivCroatia {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask6Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask6Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask6Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask6Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask6Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask6Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask6Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask6Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask6Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask6Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask6Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask6Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivIreland {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask7Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask7Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask7Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask7Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask7Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask7Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask7Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask7Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask7Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask7Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask7Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask7Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivBulgaria {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask8Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask8Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask8Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask8Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask8Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask8Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask8Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask8Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask8Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask8Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask8Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask8Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+
+#ivSlovenia {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask9Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask9Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask9Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask9Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask9Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask9Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask9Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask9Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask9Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask9Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask9Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask9Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivLuxembourg {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask10Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask10Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask10Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask10Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask10Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask10Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask10Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask10Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask10Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask10Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask10Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask10Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivNederlands {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask11Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask11Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask11Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask11Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask11Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask11Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask11Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask11Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask11Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask11Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask11Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask11Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivBelgium {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask12Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask12Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask12Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask12Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask12Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask12Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask12Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask12Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask12Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask12Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask12Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask12Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivRomania {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask13Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask13Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask13Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask13Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask13Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask13Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask13Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask13Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask13Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask13Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask13Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask13Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivGermany {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask14Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask14Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask14Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask14Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask14Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask14Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask14Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask14Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask14Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask14Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask14Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask14Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#ivSpain {
+    -fx-translate-x: 315;
+    -fx-translate-y: 190;
+}
+#buttonTask15Answer1 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 560;
+}
+#buttonTask15Answer1:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask15Answer1:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask15Answer2 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 560;
+}
+#buttonTask15Answer2:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask15Answer2:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask15Answer3 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 100;
+    -fx-translate-y: 620;
+}
+#buttonTask15Answer3:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask15Answer3:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonTask15Answer4 {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 505;
+    -fx-translate-y: 620;
+}
+#buttonTask15Answer4:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonTask15Answer4:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+
+#buttonLearning {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 315;
+    -fx-translate-y: 630;
+}
+#buttonLearning:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonLearning:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonAbout {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 315;
+    -fx-translate-y: 700;
+}
+#buttonAbout:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonAbout:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonExit {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 315;
+    -fx-translate-y: 770;
+}
+#buttonExit:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonExit:pressed {
+    -fx-background-color: #FFE766;
+}
+
+#buttonPlayAnthem {
+    -fx-background-color: #B29600;
+    -fx-background-image: url('file:/../resources/images/PlayStopAnthem/playAnthem.png');
+    -fx-pref-width: 80;
+    -fx-pref-height: 57;
+    -fx-translate-x: 890;
+    -fx-translate-y: 890;
+}
+#buttonPlayAnthem:hover {
+    -fx-background-color: #009900;
+}
+#buttonPlayAnthem:pressed {
+    -fx-background-color: #00CC00;
+}
+
+#buttonStopAnthem {
+    -fx-background-color: #B29600;
+    -fx-background-image: url('file:/../resources/images/PlayStopAnthem/stopAnthem.png');
+    -fx-pref-width: 80;
+    -fx-pref-height: 57;
+    -fx-translate-x: 40;
+    -fx-translate-y: 890;
+    
+}
+#buttonStopAnthem:hover {
+    -fx-background-color: #990000;
+}
+#buttonStopAnthem:pressed {
+    -fx-background-color: #CC0000;
+}
+
+#ivEuropeanFlag {
+    -fx-translate-y: 100;
+}
+
+
+#ivEuropeanCountries {
+    -fx-translate-x: 570;
+    -fx-translate-y: 100;
+}
+
+
+#buttonBack {
+    -fx-background-color: #B29600;
+    -fx-font: 30px sans-serif;
+    -fx-text-fill: #000099;
+    -fx-pref-width: 400;
+    -fx-translate-x: 315;
+    -fx-translate-y: 890;
+}
+#buttonBack:hover {
+    -fx-background-color: #E5C100;
+}
+#buttonBack:pressed {
+    -fx-background-color: #FFE766;
+}
+
+
+#mediaViewLearning {
+    -fx-translate-x: 30;
+    -fx-translate-y: 5;
+}
+#buttonPlayLearning {
+    -fx-background-color: #B29600;
+    -fx-background-image: url('file:/../resources/images/PlayPauseStopLearning/playLearning.png');
+    -fx-pref-width: 65;
+    -fx-pref-height: 65;
+    -fx-translate-x: 405;
+    -fx-translate-y: 720;
+}
+#buttonPlayLearning:hover {
+    -fx-background-color: #009900;
+}
+#buttonPlayLearning:pressed {
+    -fx-background-color: #00CC00;
+}
+
+#buttonPauseLearning {
+    -fx-background-color: #B29600;
+    -fx-background-image: url('file:/../resources/images/PlayPauseStopLearning/pauseLearning.png');
+    -fx-pref-width: 65;
+    -fx-pref-height: 65;
+    -fx-translate-x: 475;
+    -fx-translate-y: 720;
+}
+#buttonPauseLearning:hover {
+    -fx-background-color: #FFFF00;
+}
+#buttonPauseLearning:pressed {
+    -fx-background-color: #FFFF32;
+}
+
+#buttonStopLearning {
+    -fx-background-color: #B29600;
+    -fx-background-image: url('file:/../resources/images/PlayPauseStopLearning/stopLearning.png');
+    -fx-pref-width: 65;
+    -fx-pref-height: 65;
+    -fx-translate-x: 545;
+    -fx-translate-y: 720;
+}
+#buttonStopLearning:hover {
+    -fx-background-color: #990000;
+}
+#buttonStopLearning:pressed {
+    -fx-background-color: #CC0000;
+}
+
+
+#paneAboutWindow {
+    -fx-background-color: radial-gradient(radius 100%, #D3D3D3, #BDBDBD);
+}
+
+#ivIcon {
+    -fx-translate-x: 10;
+    -fx-translate-y: 10;
+}
+
+#labelAppName {
+    -fx-translate-x: 150;
+    -fx-translate-y: 320;
+}
+
+#labelVersion {
+    -fx-translate-x: 150;
+    -fx-translate-y: 350;
+}
+
+#labelAuthor {
+    -fx-translate-x: 150;
+    -fx-translate-y: 410;
+}
